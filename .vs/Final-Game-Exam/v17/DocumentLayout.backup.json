@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\waiya\\Desktop\\Create with code\\Final-Game-Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D44B5DC6-6A2B-D4E8-896A-6FD22EB160FF}|Assembly-CSharp.csproj|c:\\users\\waiya\\desktop\\create with code\\final-game-exam\\assets\\scripts\\spawnmanagery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44B5DC6-6A2B-D4E8-896A-6FD22EB160FF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnmanagery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44B5DC6-6A2B-D4E8-896A-6FD22EB160FF}|Assembly-CSharp.csproj|C:\\Users\\waiya\\Desktop\\Create with code\\Final-Game-Exam\\assets\\scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44B5DC6-6A2B-D4E8-896A-6FD22EB160FF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44B5DC6-6A2B-D4E8-896A-6FD22EB160FF}|Assembly-CSharp.csproj|C:\\Users\\waiya\\Desktop\\Create with code\\Final-Game-Exam\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44B5DC6-6A2B-D4E8-896A-6FD22EB160FF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44B5DC6-6A2B-D4E8-896A-6FD22EB160FF}|Assembly-CSharp.csproj|C:\\Users\\waiya\\Desktop\\Create with code\\Final-Game-Exam\\assets\\scripts\\playercontrollery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44B5DC6-6A2B-D4E8-896A-6FD22EB160FF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontrollery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpawnManagerY.cs",
+              "DocumentMoniker": "C:\\Users\\waiya\\Desktop\\Create with code\\Final-Game-Exam\\Assets\\Scripts\\SpawnManagerY.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnManagerY.cs",
+              "ToolTip": "C:\\Users\\waiya\\Desktop\\Create with code\\Final-Game-Exam\\Assets\\Scripts\\SpawnManagerY.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpawnManagerY.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T04:12:55.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "C:\\Users\\waiya\\Desktop\\Create with code\\Final-Game-Exam\\Assets\\Scripts\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PauseMenu.cs",
+              "ToolTip": "C:\\Users\\waiya\\Desktop\\Create with code\\Final-Game-Exam\\Assets\\Scripts\\PauseMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PauseMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T03:11:28.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\waiya\\Desktop\\Create with code\\Final-Game-Exam\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\waiya\\Desktop\\Create with code\\Final-Game-Exam\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T02:51:54.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerControllerY.cs",
+              "DocumentMoniker": "C:\\Users\\waiya\\Desktop\\Create with code\\Final-Game-Exam\\Assets\\Scripts\\PlayerControllerY.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerControllerY.cs",
+              "ToolTip": "C:\\Users\\waiya\\Desktop\\Create with code\\Final-Game-Exam\\Assets\\Scripts\\PlayerControllerY.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerControllerY.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T02:34:08.95Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
